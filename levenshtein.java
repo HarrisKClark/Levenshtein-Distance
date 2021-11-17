@@ -10,7 +10,7 @@ public class LevenshteinDistance {
     
     //-----------------------------------
     //    !!! insert file path below !!!!
-    Set<String> words = new HashSet<String>(readSetWords("INSERT FILE NAME"));
+    Set<String> words = new HashSet<String>(readSetWords("INSERT FILE PATH"));
     //-----------------------------------
    
     
